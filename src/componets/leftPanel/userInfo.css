@@ -1,0 +1,139 @@
+.userInfo{
+  width: 35%;
+  margin: auto;
+}
+.userInfo .CircularProgressbar{
+  text-align: center;
+  width: 80%;
+}
+.accountName{
+  margin-bottom:0px ;
+  font-size:medium ;
+  font-weight: bold;
+  text-align: center;
+}
+.accountID{
+  color: #a9aca6;
+}
+.userInfoService{
+  background-color: #e8ece5 ;
+  width: 80%;
+  border-radius:10px ;
+  padding: 10px;
+  height: 80px;
+  display: block;
+  margin: auto;
+}
+.infoPart{
+  width: 50%;
+  display: inline-block;
+  text-align:center ;
+ 
+}
+.infoPartSpan{
+  font-size:medium ;
+  font-weight: bold;
+  text-align:center ;
+}
+.infoPartPar{
+  margin-top:1px ;
+  margin-bottom:5px ;
+}
+.infoPartNum{
+  color: white;
+  border-radius: 100%;
+  padding: 4px;
+  width: 20px;
+  text-align: center;
+  margin: auto;
+}
+.backwhite{
+  position: relative;
+  display: inline-block;
+  margin-top: 40%;
+  width: 70%;
+  margin-left: 20%;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.ProgressbarImage{
+  position: relative;
+  display: inline-block;
+  margin-top: 40%;
+  width: 70%;
+  margin-left: 20%;
+}
+.num1{
+  background-color: #ec55cc ;
+}
+.num2{
+  background-color: #b53cec ;
+}
+.hundred{
+  position: absolute;
+  color: blue;
+  top: 16%;
+  left: 75%; 
+}
+.waletUser{
+  padding: 10px;
+  text-align: center;
+} 
+.waletUserInfo{
+  text-align: center;
+  color: grey;
+  display: inline-flex;
+}
+.waletUserInfoTotal{
+  font-size: 18px;
+  font-weight: bold;
+}
+.waletUserBTN{
+  margin: 10px;
+  padding: 10px;
+}
+.UserBTN{
+  text-align: center;
+}
+.news{
+  padding: 10px;
+}
+.newsHr{
+  display: block;
+  height: 1px;
+  border: 0; 
+  border-top: 1px solid #ccc;
+  margin: 50% 0px 8% 0px;
+}
+.newsHeader{
+  color: gray;
+  display: inline-flex;
+  margin: 0px ;
+  font-size: medium;
+  font-weight: bold;
+}
+.list{
+  padding: 10px;
+  margin-top: 5px;
+}
+.list-item{
+  color: gainsboro;
+  margin: 5px;
+}
+.list-item:hover{
+  color: #00ac72;
+}
+.list-item:active{
+  color: #00ac72;
+}
+.list-item >a{
+  color: gray;
+  text-decoration: none;
+}
+.list-item > a:hover{
+  color: #000;
+  font-weight: bold;
+}
+.list-item > a:active{
+  color: #000;
+}

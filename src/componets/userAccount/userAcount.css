@@ -1,0 +1,82 @@
+.account{
+    margin: 10px;
+    border-radius: 10px;
+    background: white;
+    /* display: flex; */
+}
+.account .userInfo{
+    width: 100%;
+    margin: 10px 40px 10px 0px;
+    display: block;
+    height: 20%;
+}
+.account .userInfo .hundred{
+    top: 36%;
+    left: 83%; 
+}
+.account .userInfo >div{
+    display: inline-block ;
+    width: 20%;
+}
+.account .userInfo .CircularProgressbar{
+  text-align: center;
+  width: 70%;
+}
+.account .userInfo .ProgressbarImage {
+    position: relative;
+    margin-top: 60%;
+    width: 60%;
+    margin-left: 31px;
+    float: inline-start;
+}
+.account .userInfo .accountName{
+    font-size: large;
+    display: inline-block;
+}
+
+.account .userInfo .accountID{
+    margin-left: 10%;
+    float: inline-end;
+    display: inline-flex;
+}
+.accountInfoPart2{
+    margin: 2% 50% 2% 2%;
+}
+.cardHeader{
+    text-align: center;
+}
+.cardText{
+    text-align: left;
+}
+.cardText >p{
+    display:inline-flex ;
+    padding: 5px;
+    font-family: 'BYekan';
+}
+.cardText >p .MuiSvgIcon-root{
+    margin-right: 10px;
+}
+.cardIcon{
+    text-align: center;
+}
+.cardIcon >a{
+    color: gray;
+    padding: 10px;
+}
+.cardBTN{
+    text-align: center !important;
+    border-radius: 20px !important;
+    background-color: #06c97e !important;
+    color: white !important;
+    width: 90% !important;
+    margin: auto !important;
+}
+.cardBTN .MuiSvgIcon-root{
+    margin: 0 auto;
+}
+.accountBIO{
+    margin-right: 40px;
+}
+.accountInfoCard{
+    background-color: #f4f5f3;
+}

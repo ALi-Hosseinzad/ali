@@ -1,0 +1,162 @@
+{
+        "userAccount": [
+            {
+                "id": 0,
+                "name": "پیش نمایش",
+                "class": "active",
+                "href":"/userAccount/preview"
+            },  
+            {
+                "id": 1,
+                "name": "پیام ها",
+                "class": "",
+                "href": "/userAccount/masseges"
+            },
+            {
+                "id": 2,
+                "name": "اطلاعات حساب کاربری",
+                "class": "",
+                "href": "/userAccount//account-information"  
+            },
+            {
+                "id": 3,
+                "name": "اطلاعات حرفه ای",
+                "class": "",
+                "href": "/userAccount/professional-information"  
+            },
+            {
+                "id": 4,
+                "name": "خدمات دریافتی",
+                "class": "",
+                "href": "/userAccount/received-services" 
+            },
+            {
+                "id": 5,
+                "name": "تنظیمات حریم خصوصی",
+                "class": "",
+                "href": "/userAccount/privacy-settings" 
+            }
+        ],
+        "pardis": [
+            {
+                "id": 0,
+                "name": "شتاب دهنده",
+                "class": "active",
+                "href":"/pardis/"
+            },  
+            {
+                "id": 1,
+                "name": "فضای کار اشتراکی",
+                "class": "",
+                "href": "/pardis/"
+            },
+            {
+                "id": 2,
+                "name": "کارخانه نوآوری",
+                "class": "",
+                "href": "/pardis/"  
+            },
+            {
+                "id": 3,
+                "name": "پارک علم و نوآوری",
+                "class": "",
+                "href": "/pardis/"  
+            },
+            {
+                "id": 4,
+                "name": "پژوهشگاه",
+                "class": "",
+                "href": "/pardis/" 
+            },
+            {
+                "id": 5,
+                "name": "مجتمع فناوری",
+                "class": "",
+                "href": "/pardis/" 
+            },
+            {
+                "id": 6,
+                "name": "مرکز رشد",
+                "class": "",
+                "href": "/pardis/"  
+            },
+            {
+                "id": 7,
+                "name": "دانشگاه",
+                "class": "",
+                "href": "/pardis/"  
+            }
+            
+        ],
+        "markets": [
+            {
+                "id": 0,
+                "name": "خدمات کسب و کار",
+                "class": "active",
+                "href":"/markets/"
+            },  
+            {
+                "id": 1,
+                "name": "تسهیلات مالی",
+                "class": "",
+                "href": "/markets/"
+            },
+            {
+                "id": 2,
+                "name": "مناقصات آریاتندر",
+                "class": "",
+                "href": "/markets/"  
+            },
+            {
+                "id": 3,
+                "name": "فناوری اطلاعات",
+                "class": "",
+                "href": "/markets/"  
+            },
+            {
+                "id": 4,
+                "name": "مناقصات و کنسرسیوم ها",
+                "class": "",
+                "href": "/markets/" 
+            },
+            {
+                "id": 5,
+                "name": "اسمارت مالی",
+                "class": "",
+                "href": "/markets/" 
+            }
+        ],
+        "wallet": [
+            {
+                "id": 0,
+                "name": "کیف پول",
+                "class": "active",
+                "href":"/wallet/"
+            },  
+            {
+                "id": 1,
+                "name": "تراکنش ها",
+                "class": "",
+                "href": "/wallet/"
+            },
+            {
+                "id": 2,
+                "name": "مدیریت حساب ها",
+                "class": "",
+                "href": "/wallet/"  
+            },
+            {
+                "id": 3,
+                "name": "تسویه حساب",
+                "class": "",
+                "href": "/wallet/"  
+            },
+            {
+                "id": 4,
+                "name": "اعتبارات من",
+                "class": "",
+                "href": "/wallet/" 
+            }
+        ]
+
+}

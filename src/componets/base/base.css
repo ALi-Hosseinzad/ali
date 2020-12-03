@@ -1,0 +1,17 @@
+.Base{
+    text-align: center;
+}
+.Base >h4{
+    text-align: center;
+}
+.Base >button{
+    width: 40%;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(38, 233, 247);
+    border: solid 1px gray;
+    border-radius: 10px;
+}
+.MuiBadge-root{
+ margin: 10px;
+}

@@ -1,0 +1,51 @@
+.dashbord {
+  width: 60%;
+  margin: auto;
+  border: solid 1px gray;
+  border-radius: 10px;
+  display: block;
+  padding: 10px;
+}
+.part1 {
+  display: inline-grid;
+}
+.part2 {
+  direction: initial;
+}
+.part1 >button  {
+  background-color: rgb(217, 255, 47);
+  border: 1px solid #bbb;
+  color: white;
+  padding: 14px 32px;
+  font-size: 16px;
+  margin: 2px;
+  border-radius: 5px;
+}
+.part2 > button {
+    background-color: greenyellow;
+    border: 1px solid #bbb;
+    color: white;
+    padding: 14px 32px;
+    font-size: 12px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.part1 .diff{
+    background-color: red;
+    border: 1px solid #bbb;
+    color: white;
+    padding: 14px 32px;
+    font-size: 12px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.result {
+  height: 60px;
+  background-color: #bbb;
+  width: 95%;
+  margin: 2% auto !important;
+  direction: ltr;
+}
+.result >p{
+    margin-left: 10px;
+}

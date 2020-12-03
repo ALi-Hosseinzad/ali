@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "BYekan";
+  src:url("./fonts/BYekan-webfont.eot")  format("eot"),
+      url("./fonts/BYekan-webfont.woff") format("woff"),
+      url("./fonts/BYekan-webfont.ttf")  format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  font-family: "BYekan";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.MuiGrid-grid-xs-7{
+  background-color: #f4f5f3;
+  border-radius: 10px;
+}

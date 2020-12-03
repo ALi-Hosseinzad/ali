@@ -1,0 +1,34 @@
+{
+    "news": [
+        {
+            "id": "0",
+            "text": "رویداد نورالینک ایلان ماسک، متخصصان علوم اعصاب را تحت تأثیر قرار نداد ",
+            "href": "https://www.zoomit.ir/fundamental-science/362373-elon-musks-neuralink-neuroscience-theater/"  
+        },
+        {
+            "id": "1",
+            "text": "تسلا؛ پرفروش ترین خودرو دست دوم در بازار آمریکا ",
+            "href": "https://www.zoomit.ir/car-news/362368-fastest-selling-used-cars-us-are-tesla/" 
+        },
+        {
+            "id": "2",
+            "text": "عرضه گوشی هواوی با هارمونی OS به‌جای اندروید در سال ۲۰۲۱ تأیید شد ",
+            "href": "https://www.zoomit.ir/mobile/362372-richard-yu-harmonyos-huawei-phones-next-year-official/" 
+        },
+        {
+            "id": "3",
+            "text": "اینترنت کوانتومی چیست؟ هرآنچه باید درباره آینده شبکه‌های کوانتومی بدانید ",
+            "href": "https://www.zoomit.ir/internet-network/362294-quantum-internet-application-future/"  
+        },
+        {
+            "id": "4",
+            "text": "گوشی شفاف سامسونگ در دست ساخت است؟ ",
+            "href": "https://www.zoomit.ir/mobile/362388-patent-samsung-fully-transparent-smartphone/"
+        },
+        {
+            "id": "5",
+            "text": "وزیر ارتباطات: ۳۰ میلیون ایرانی از فیلترشکن استفاده می‌کنند ",
+            "href": "https://www.zoomit.ir/tech-iran/362391-jahromi-30-million-iranians-censorship-circumvention/" 
+        }
+    ]
+}
